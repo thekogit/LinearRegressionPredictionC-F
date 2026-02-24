@@ -56,7 +56,6 @@ print(f"Slope: {a:.4f}")
 print(f"Intercept: {b:.4f}")
 
 # 6. Prediction & Evaluation
-# Let's predict the temperature in Celsius for 100°F
 while True:
     try:
         input_temp_f = int(input("Enter temperature in Fahrenheit: "))
